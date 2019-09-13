@@ -1,3 +1,3 @@
 ## Getting Started
-This project is a starting point for Flutter UI application.
-
+Every week, I choose a simple single page mobile design, and I implement it in Flutter.
+This project contains all Flutter UI pages.
